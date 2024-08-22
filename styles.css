@@ -101,7 +101,7 @@ iframe {
     text-align: center;
     transition: background-color 0.3s ease; /* Smooth transition for background color */
     font-family: 'Pacifico', cursive; /* Add this line */
-    font-size: small;
+    font-size: large;
 }
 
 .navbar ul {
