@@ -81,7 +81,7 @@ iframe {
     margin-bottom: 1rem;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #ff5733; /* Change this color code to your desired color */
+    color: #001121; /* Change this color code to your desired color */
 }
 
 .hero-content p {
@@ -170,7 +170,7 @@ p {
 
 /* Footer */
 footer {
-    background-color: #333;
+    background-color: #001121;
     color: white;
     padding: 2rem;
     text-align: center;
