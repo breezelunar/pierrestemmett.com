@@ -23,7 +23,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat; /* Prevents the background from repeating */
-    background-color: black; /* Black background for any extra space */
+    background-color: #001121; /* Black background for any extra space */
     display: flex;
     justify-content: center;
     align-items: center;
