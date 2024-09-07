@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
 
 /* Resetting margins and paddings for consistency */
 * {
@@ -99,7 +100,7 @@ iframe {
     z-index: 1000;
     text-align: center;
     transition: background-color 0.3s ease; /* Smooth transition for background color */
-    font-family: 'Pacifico', cursive; /* Add this line */
+    font-family: 'Merienda', cursive; /* Add this line */
     font-size: large;
 }
 
@@ -142,7 +143,7 @@ h2 {
     font-size: 2rem;
     margin-bottom: 1rem;
     color: #333;
-    font-family: 'Pacifico', cursive; /* Add this line */
+    font-family: 'Merienda', cursive; /* Add this line */
 }
 
 p {
